@@ -1,2 +1,2 @@
 # OODP-workshop1
-This is the week 1 Workshop file of OODP.
+This file contains all week workshop files of OODP.
